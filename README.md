@@ -1,4 +1,4 @@
-# ASTHAM-INHALER-TRACKER
+# SMART ASTHAMA-INHALER-TRACKER
 #include <Wire.h>
 #include <Adafruit_BMP085.h>
 #include <LiquidCrystal_I2C.h>
